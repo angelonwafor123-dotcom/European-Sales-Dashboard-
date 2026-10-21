@@ -41,4 +41,4 @@ This project analyzes **2,700+ retail transactions** across European markets to 
 
 ---
 
-## 📁 Repository Structure
+
