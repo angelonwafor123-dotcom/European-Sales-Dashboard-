@@ -1,4 +1,4 @@
-# European-Sales-Dashboard-#  European Retail Sales Analysis & Interactive Excel Dashboard
+# European-Sales-Dashboard- European Retail Sales Analysis & Interactive Excel Dashboard
 
 ## Executive Summary
 This project analyzes **2,700+ retail transactions** across European markets to evaluate sales performance, product category profitability, and customer distribution channels. Using Microsoft Excel, raw transactional data was structured and analyzed to deliver actionable business insights for sales optimization.
